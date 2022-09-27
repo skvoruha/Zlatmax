@@ -1,0 +1,8 @@
+@font-face {
+  font-family: icomoon;
+  font-display: swap;
+  src: url("../fonts/icomoon.woff2") format("woff2"), url("../fonts/icomoon");
+  font-weight: 400;
+  font-style: normal;
+}
+/*# sourceMappingURL=fonts.css.map */
